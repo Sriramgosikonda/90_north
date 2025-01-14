@@ -75,12 +75,3 @@ This project includes implementations for three key tasks:
 
 ### Notes
 - Ensure the IAM role for the Lambda functions has permissions for S3 access.
-
-## Submission Guidelines
-1. Add all code files to a GitHub repository.
-2. Include this README file in the repository.
-3. Host the Django project on PythonAnywhere or AWS.
-4. Email the GitHub repository link and hosted project URL to `Hr@enfund.io`.
-
-
-
