@@ -82,6 +82,5 @@ This project includes implementations for three key tasks:
 3. Host the Django project on PythonAnywhere or AWS.
 4. Email the GitHub repository link and hosted project URL to `Hr@enfund.io`.
 
-## Deadline
-Submission deadline: **16/01/2025 by 8 PM**.
+
 
